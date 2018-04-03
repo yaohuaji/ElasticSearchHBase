@@ -2,4 +2,5 @@
 2、Maven构建的spring工程：
 	create.do:创建索引，先后在HBase和ElasticSearch中创建索引
 	search.do:搜索
+3、基于jdk1.7，Tomcat7.0
 该项目可以达到亿万级索引的秒级甚至毫秒级的搜索速度
